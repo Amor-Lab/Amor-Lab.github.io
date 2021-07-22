@@ -1,0 +1,7 @@
+- name: Publication One
+  authors: ["Curie", "Corina", "Einstein"]
+  lab_authors: ["Corina"]
+
+- name: Publication Two
+  authors: ["Newton", "Adri", "Noether", "Corina"]
+  lab_authors: ["Corina", "Adri"]
