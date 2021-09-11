@@ -7,3 +7,4 @@
 - Adding resources using data_pages or Markdown?
     - People in the lab
     - New publications
+    - Social Media
