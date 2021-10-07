@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 # Lab Members
-## Principal Invesitgator
+## Principal Investigator
 ## Corina Amor, M.D., Ph. D.
 <!-- ![Corina](../img/Corina_headshot.jpeg) -->
 <!-- <img style="float: left; margin: 0px 15px 15px 0px;" src="../img/Corina_headshot.jpeg" width="300" /> -->
