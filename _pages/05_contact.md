@@ -19,14 +19,12 @@ permalink: /contact/
 
 ### Mailing Address
 
-```
-Amor Lab
-1 Bungtown Road
-McClintock Laboratory | Room 
-Cold Spring Harbor Laboratory
-Cold Spring Habor
-NY 11724
-```
+Amor Lab <br>
+1 Bungtown Road<br>
+McClintock Laboratory | Room <br>
+Cold Spring Harbor Laboratory<br>
+Cold Spring Habor <br>
+NY 11724<br>
 
 ## Join Us!
 ![CSHL](../img/cshl_pic_in_join_us.jpeg)
