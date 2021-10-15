@@ -75,6 +75,7 @@ permalink: pretty
 exclude: ["_drafts"]
 
 sass:
+  sass_dir: _sass
   load_paths:
     - _sass
 
