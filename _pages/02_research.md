@@ -15,7 +15,7 @@ The composition of the SASP and the surface proteins expressed by senescent cell
 <!-- ![senescence](../img/Pic for research.1.png){} -->
 
 
-## Developing immune-based senolytic threapies
+## Developing immune-based senolytic therapies
 <img style="float: left; margin: 0px 15px 15px 0px;" src="../img/Pic for research.2.png" width="150" />
 Genetic mouse models have shown the therapeutic promise of targeting senescent cells in cancer and age-related pathologies. Our lab seeks to develop strategies to eliminate senescent cells (senolytics) that harness the body immune system. In particularly, we are interested in chimeric antigen receptor T cells (CAR T cells). We recently identified uPAR as a surface molecule upregulated on senescent cells and developed the first CAR T cells able to target senescent cells. Our current efforts focus on the optimization of senolytic cellular therapy in terms of target, cell type and CAR designs with the ultimate goal of reaching the clinical development of senolytic cellular therapy in cancer and age-related pathologies. 
 <!-- ![senolytic](../img/Pic for research.2.png) -->

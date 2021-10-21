@@ -2,13 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+  <script src="https://kit.fontawesome.com/dded0ae251.js" crossorigin="anonymous"></script>
 
   <body>
 
     {%- include header.html -%}
 
-    <div class="py-5">
-      <div class="container page-content">
+    <div class="mx-5">
+      <div class="container-fluid">
           {{ content }}
       </div>
     </div>

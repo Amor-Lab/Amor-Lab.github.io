@@ -9,34 +9,80 @@ permalink: /contact/
 - Mail: [corina@awesome_lab.com](mailto:corina@awesome_lab.com)
  -->
 
-### Corina Amor, Principal Investigator
-- Phone: 516-367-8459
-- E-mail: [amor@cshl.edu](mailto:amor@cshl.edu)
+<br>
 
-### Sabrina Boettcher, Administrative Assistant
-- Phone: 516-367-8421
-- E-mail: [boettche@cshl.edu](mailto:boettche@cshl.edu)
-
-### Mailing Address
-
-Amor Lab <br>
-1 Bungtown Road<br>
-McClintock Laboratory | Room <br>
-Cold Spring Harbor Laboratory<br>
-Cold Spring Habor <br>
-NY 11724<br>
+<div class="row align-items-start">
+    <div class="col-md-4">
+        <div class="row justify-content-center">
+            Principal Investigator
+        </div>
+        <div class="row justify-content-center">
+            Corina Amor
+        </div>
+        <div class="row justify-content-center">
+            Phone: 516-367-8459
+        </div>
+        <div class="row justify-content-center">
+            Email: <a href="mailto:amor@cshl.edu" target="_blank">amor@cshl.edu</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="row justify-content-center">
+            Administrative Assistant
+        </div>
+        <div class="row justify-content-center">
+            Sabrina Boettcher
+        </div>
+        <div class="row justify-content-center">
+            Phone: 516-367-8421
+        </div>
+        <div class="row justify-content-center">
+            Email: <a href="mailto:boettche@cshl.edu" target="_blank">boettche@cshl.edu</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="row justify-content-center">
+            Mailing Address
+        </div>
+        <div class="row justify-content-center">
+            Amor Lab
+        </div>
+        <div class="row justify-content-center">
+            McClintock Laboratory | Room 217
+        </div>
+        <div class="row justify-content-center">
+            Cold Spring Harbor Laboratory
+        </div>
+        <div class="row justify-content-center">
+            Cold Spring Habor
+        </div>
+        <div class="row justify-content-center">
+            NY 11724
+        </div>
+    </div>
+</div>
 
 ## Join Us!
-![CSHL](../img/cshl_pic_in_join_us.jpeg)
-We are currently seeking highly motivated postdoctoral fellows, graduate and master’s students and technicians to join us.
 
-To learn more about ongoing research projects and apply, please email your CV, brief description of research experience and future interests and the names of 3 references to amor@cshl.edu 
+<style>
+    .row{
+        display: flex;
+    }
 
-## Working at CSHL
+</style>
 
-Located on Long Island, CSHL is easily accessible from NYC via the Long Island Rail Road in under an hour.
+<div class="row justify-content-center">
+    We are currently seeking highly motivated postdoctoral fellows, graduate and master’s students and technicians to join us. To learn more about ongoing research projects and apply, please email your CV, brief description of research experience and future interests and the names of 3 references to amor@cshl.edu
+</div>
+<br>
+<div class="row">
+    <div class="col-lg-6">
+        <img class="img-responsive" src="../img/cshl_pic_in_join_us.jpeg" style="width:100%"/>
+    </div>
+    <div class="col-lg-6">
+        Located on Long Island, CSHL is easily accessible from NYC via the Long Island Rail Road in under an hour.<br>
+        CSHL offers competitive salaries and benefits programs, access to an affordable on-site childcare center and career development opportunities (visit <a href="https://www.cshl.edu/research/postdoctoral-research/">resources</a>).<br>
+        CSHL  has a friendly and collaborative environment that fosters scientific discussions. Its <a href="https://meetings.cshl.edu/index.aspx"> Meetings and Courses program</a> provides further opportunity to stay up to date and interact with researchers from different fields. In addition CSHL hosts non-scientific events such as concerts, lecture programs and a wide range of outdoors and indoors activities such as private beach, swimming pool, canoeing, sailing, volleyball and tennis courts.
+    </div>
+</div>
 
-CSHL offers competitive salaries and benefits programs, access to an affordable on-site childcare center and career development opportunities (visit [resources](https://www.cshl.edu/research/postdoctoral-research/
-)).
-
-CSHL  has a friendly and collaborative environment that fosters scientific discussions. Its [Meetings and Courses program](https://meetings.cshl.edu/index.aspx) provides further opportunity to stay up to date and interact with researchers from different fields. In addition CSHL hosts non-scientific events such as concerts, lecture programs and a wide range of outdoors and indoors activities such as private beach, swimming pool, canoeing, sailing, volleyball and tennis courts.
