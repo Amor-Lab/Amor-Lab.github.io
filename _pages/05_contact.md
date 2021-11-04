@@ -65,7 +65,7 @@ h3 {text-align: center;}
             Cold Spring Harbor Laboratory
         </div>
         <div class="row justify-content-center">
-            Cold Spring Habor
+            Cold Spring Harbor
         </div>
         <div class="row justify-content-center">
             NY 11724
