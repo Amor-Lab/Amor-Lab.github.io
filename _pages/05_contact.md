@@ -10,13 +10,15 @@ permalink: /contact/
  -->
 
 <style>
-    .row{
-        display: flex;
-        text-align: center;
-    }
+.row{
+    display: flex;
+    text-align: center;
+}
 h2 {text-align: center;}
 h3 {text-align: center;}
-
+.col-lg{
+    text-align: center;
+}
 </style>
 
 <br>
@@ -82,13 +84,13 @@ h3 {text-align: center;}
     </div>
     <br>
     <h3> Working at CSHL</h3>
-    <div class="row">
+    <!-- <div class="row"> -->
         Located on Long Island, CSHL is easily accessible from NYC via the Long Island Rail Road in under an hour.<br>
-        CSHL offers competitive salaries and benefits programs, access to an affordable on-site childcare center and career development opportunities (visit <a href="https://www.cshl.edu/research/postdoctoral-research/">resources</a>).
-    </div>
-    <div class="row">
-        CSHL  has a friendly and collaborative environment that fosters scientific discussions. Its <a href="https://meetings.cshl.edu/index.aspx"> Meetings and Courses program</a> provides further opportunity to stay up to date and interact with researchers from different fields. In addition CSHL hosts non-scientific events such as concerts, lecture programs and a wide range of outdoors and indoors activities such as private beach, swimming pool, canoeing, sailing, volleyball and tennis courts.
-    </div>
+        CSHL offers competitive salaries and benefits programs, access to an affordable on-site childcare center and career development opportunities (visit <a href="https://www.cshl.edu/research/postdoctoral-research/">resources</a>). <br>
+    <!-- </div> -->
+    <!-- <div class="row"> -->
+        CSHL  has a friendly and collaborative environment that fosters scientific discussions. Its <a href="https://meetings.cshl.edu/index.aspx"> Meetings and Courses program </a> provides further opportunity to stay up to date and interact with researchers from different fields. In addition CSHL hosts non-scientific events such as concerts, lecture programs and a wide range of outdoors and indoors activities such as private beach, swimming pool, canoeing, sailing, volleyball and tennis courts.
+    <!-- </div> -->
     <div class="row">   
         <img class="img-responsive" src="../img/cshl_pic_in_join_us.jpeg" style="width:100%"/>
     </div>
