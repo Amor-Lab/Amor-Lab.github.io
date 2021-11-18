@@ -67,7 +67,7 @@ titles_from_headings:
   strip_title: true
   collections: true 
 
-include: ["_pages"]
+include: ["_pages", "_data"]
 makrdown: kramdown
 permalink: pretty
 
