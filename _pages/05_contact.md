@@ -33,7 +33,7 @@ h3 {text-align: center;}
             Corina Amor
         </div>
         <div class="row justify-content-center">
-            Phone: 516-367-8459
+            Phone: 516-367-5504
         </div>
         <div class="row justify-content-center">
             Email: <a href="mailto:amor@cshl.edu" target="_blank"> amor@cshl.edu </a>
